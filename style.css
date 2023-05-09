@@ -1,0 +1,33 @@
+h1 {
+    background-image:url(/pics/bg4.jpg) ;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-top: 0%;
+    color:black;
+    word-spacing:normal;
+    text-transform: capitalize;
+    font-style: oblique;
+   
+
+}
+.P1{
+    font-style: italic;
+    color:red;
+
+}
+.P2 i{
+    color:blue; 
+}
+div{
+    text-align: center;
+}
+.tree{
+    width: 350px;
+}
+.last{
+    align-content: center;
+}
+.table{
+    border: 2px black solid;
+}
